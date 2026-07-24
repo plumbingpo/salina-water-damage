@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salinarestoration.com/sitemap.xml
